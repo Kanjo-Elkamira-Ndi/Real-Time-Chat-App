@@ -1,4 +1,4 @@
-
+forked and reviewed by sirrirosenforbi 
 # 💬 Full-Stack Real-Time Chat Application
 # Full-Stack Chat App with Authentication & Email Notifications ✨
 <p align="center">
