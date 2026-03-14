@@ -266,35 +266,35 @@ Contributions are welcome!
 
 If you'd like to improve this project:
 
-1. Fork the repository
-2. Create a new branch
+1. Fork the repository //to have exact repo on your account
+2. Create a new branch  // to push your contribution on it
 
 ```
-git checkout -b feature/new-feature
+git checkout -b feature/new-feature   // creating and naming your branch
 ```
 
-3. Commit your changes
+3. Commit your changes   // like taking a snapshot of your codes
 
 ```
 git commit -m "Add new feature"
 ```
 
-4. Push to your branch
+4. Push to your branch  // uploading code to your branch
 
 ```
 git push origin feature/new-feature
 ```
 
-5. Open a Pull Request
+5. Open a Pull Request  
 
 ---
 
 # 📄 License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the **MIT License**. 
 
 ---
 
 # 👨‍💻 Author
 
-# Kanjo Elkamira Ndi
+# Kanjo Elkamira Ndi  ⭐
